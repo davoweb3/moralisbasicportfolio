@@ -1,2 +1,3 @@
 # moralisbasicportfolio
 This is a simple exercise for illustrating how Get Native &amp; ERC20 Token Balances by Wallet API from Moralis work.
+Fetch ERC20 and native token balances for a given wallet address, including their USD prices. Each token returned includes on-chain metadata, as well as off-chain metadata, logos, spam status and more. Additional options to exclude spam tokens, low-liquidity tokens and inactive tokens.
